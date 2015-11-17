@@ -1,0 +1,23 @@
+name: leads
+favicon: null
+layout_spectrum: 0.5742002564948052
+typography_spectrum: 0.8147358715068549
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.955005765426904
+  lightness: 0.9468268970958889
+  saturation: 0.9090256029739976
+  rhythmicContrast: 0.9114856400992721
+purpose: []
